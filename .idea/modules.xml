@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppLearn.iml" filepath="$PROJECT_DIR$/AppLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardviewpager/cardviewpager.iml" filepath="$PROJECT_DIR$/cardviewpager/cardviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanshe/fanshe.iml" filepath="$PROJECT_DIR$/fanshe/fanshe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netrequest/netrequest.iml" filepath="$PROJECT_DIR$/netrequest/netrequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speechdemo/speechdemo.iml" filepath="$PROJECT_DIR$/speechdemo/speechdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdate/testdate.iml" filepath="$PROJECT_DIR$/testdate/testdate.iml" />
+    </modules>
+  </component>
+</project>
